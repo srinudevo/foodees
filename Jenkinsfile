@@ -8,7 +8,11 @@ pipeline{
             }
         }
         stage('build'){
-            echo 'building project using maven' 
+            steps{
+                echo 'building project using maven'
+
+            }
+             
 
         }
     }
