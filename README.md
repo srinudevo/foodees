@@ -1,2 +1,2 @@
-# foodies
-foodies application with dynamic content demonstration
+# foodees
+foodees application with dynamic content demonstration
